@@ -1,0 +1,2 @@
+# Перенаправление всех запросов на index.html
+DirectoryIndex index.html
