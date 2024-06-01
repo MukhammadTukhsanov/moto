@@ -200,7 +200,7 @@ a:focus {
   background: #f5f5f5;
 }
 
-img[src="assets/images/blank.gif"] {
+img[src="./assets/images/blank.gif"] {
   background: url("../images/ajax-loader.gif") no-repeat scroll center center #ffffff;
   width: 100%;
 }
